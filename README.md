@@ -2,8 +2,9 @@
 2. Goto —> cd MovieTicketReactWeb
 3. Install Node module —> npm install 
 4. Goto —> cd src/JSON
-        1. Host db.json file in jsonserver —> json-server --watch db.json --port 6700
-            1. Should result in below resources
+      Host db.json file in jsonserver —> 
+      	json-server --watch db.json --port 6700
+           This should result in below resources
 			  	  http://localhost:6700/latestmovies
 				  http://localhost:6700/events
 				  http://localhost:6700/upcomingMovies
