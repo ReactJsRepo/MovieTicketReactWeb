@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MovieTicketReactWeb/static/css/main.aff85c7c.chunk.css",
+    "main.js": "/MovieTicketReactWeb/static/js/main.9b1fdf48.chunk.js",
+    "main.js.map": "/MovieTicketReactWeb/static/js/main.9b1fdf48.chunk.js.map",
+    "runtime-main.js": "/MovieTicketReactWeb/static/js/runtime-main.333a0e23.js",
+    "runtime-main.js.map": "/MovieTicketReactWeb/static/js/runtime-main.333a0e23.js.map",
+    "static/css/2.83681c71.chunk.css": "/MovieTicketReactWeb/static/css/2.83681c71.chunk.css",
+    "static/js/2.6059c71e.chunk.js": "/MovieTicketReactWeb/static/js/2.6059c71e.chunk.js",
+    "static/js/2.6059c71e.chunk.js.map": "/MovieTicketReactWeb/static/js/2.6059c71e.chunk.js.map",
+    "static/js/3.4e566b97.chunk.js": "/MovieTicketReactWeb/static/js/3.4e566b97.chunk.js",
+    "static/js/3.4e566b97.chunk.js.map": "/MovieTicketReactWeb/static/js/3.4e566b97.chunk.js.map",
+    "index.html": "/MovieTicketReactWeb/index.html",
+    "static/css/2.83681c71.chunk.css.map": "/MovieTicketReactWeb/static/css/2.83681c71.chunk.css.map",
+    "static/css/main.aff85c7c.chunk.css.map": "/MovieTicketReactWeb/static/css/main.aff85c7c.chunk.css.map",
+    "static/js/2.6059c71e.chunk.js.LICENSE.txt": "/MovieTicketReactWeb/static/js/2.6059c71e.chunk.js.LICENSE.txt",
+    "static/media/loading.b78c4790.gif": "/MovieTicketReactWeb/static/media/loading.b78c4790.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.333a0e23.js",
+    "static/css/2.83681c71.chunk.css",
+    "static/js/2.6059c71e.chunk.js",
+    "static/css/main.aff85c7c.chunk.css",
+    "static/js/main.9b1fdf48.chunk.js"
+  ]
+}
