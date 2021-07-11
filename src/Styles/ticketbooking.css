@@ -1,0 +1,21 @@
+form {
+    border: thin solid black;
+    padding: 2rem;
+    margin: 2rem;
+    //display: flex;
+  }
+  
+  .formtext {
+    position: relative;
+    top: 5px;
+    background: white;
+    width: 300px;
+    color: black;
+    font-size: 13px;
+  }
+
+  .labeltext{
+    font-size: 12px;
+    margin-right: 10px;
+    //border: 1px solid black;
+  }
